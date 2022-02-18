@@ -12,5 +12,8 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=skuppuraj&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
 
+## 🔥Stack overflow 
+<a href="https://stackoverflow.com/users/2725408/kuppuraj"><img src="https://stackoverflow.com/users/flair/2725408.png?theme=dark" width="208" height="58" alt="profile for Kuppuraj at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Kuppuraj at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=skuppuraj&icon=0&color=0)](https://visitcount.itsvg.in)
